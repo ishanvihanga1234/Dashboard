@@ -1,0 +1,15 @@
+{
+  "name": "Sri Lanka Macro & Liquidity Dashboard",
+  "short_name": "SL Macro",
+  "description": "Real, external, monetary sector and rupee liquidity indicators.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E1A26",
+  "theme_color": "#0E1A26",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
